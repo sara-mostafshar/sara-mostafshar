@@ -21,7 +21,7 @@ No install, no sign-up – your files are read in your own browser and never upl
 People stay in control: every agent output is reviewed before it is used.
 
 ## 🧰 Working with
-Excel · SAP · Python · Make · Claude · ChatGPT · GitHub Pages · Power BI and Primavera P6 (learning)
+Excel · SAP · Python · Make · Claude · ChatGPT · GitHub Pages · Power BI · Primavera P6
 
 🎓 AI Project Controls Practitioner (AIPCP) – Project Control Academy
 
