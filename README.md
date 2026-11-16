@@ -1,6 +1,6 @@
 # Hi, I'm Sara Mostafshar 👋
 
-I build **AI agents and free web tools for project controllers**. They turn cost, schedule and risk data into clear, simple answers that management can act on.
+I build **AI agents and simple, free web tools for project controllers and project managers**. They turn cost, schedule and risk data into clear, simple answers that management can act on.
 
 🌐 **Portfolio:** [sara-mostafshar.github.io](https://sara-mostafshar.github.io) · ▶️ **YouTube:** [@saramostafshar7216](https://www.youtube.com/@saramostafshar7216)
 
