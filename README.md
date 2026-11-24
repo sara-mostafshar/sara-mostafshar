@@ -8,7 +8,8 @@ I build **AI agents and simple, free web tools for project controllers and proje
 
 | Tool | What it answers | Try it |
 |---|---|---|
-| **Monte Carlo Risk Analysis** | Is our contingency enough? P50 / P80 cost and finish dates, risk drivers, management summary | [Open](https://sara-mostafshar.github.io/monte-carlo-risk-analysis/) · [Video](https://youtu.be/S6XUDV6LFCs) |
+| **Change & Contingency Tracker** | How much contingency is left, is it running out faster than the work, and which changes need a decision now? Change log (ERP export or Excel) to one page | [Open](https://sara-mostafshar.github.io/change-contingency-tracker/) · [Video](https://youtu.be/C9WpigIZswU) |
+| **Monte Carlo Risk Analysis** | How much contingency do we need? P50 / P80 cost and finish dates, risk drivers, management summary | [Open](https://sara-mostafshar.github.io/monte-carlo-risk-analysis/) · [Video](https://youtu.be/S6XUDV6LFCs) |
 | **Schedule Health Check** | Is the schedule good enough to report? DCMA 14-point assessment with a plain-English summary | [Open](https://sara-mostafshar.github.io/schedule-health-check/) · [Video](https://youtu.be/55a_eWYZm0c) |
 | **Project Controls Dashboard** | Where does the project stand this month? Excel cost report + P6 schedule into SPI, CPI and data checks | [Open](https://sara-mostafshar.github.io/project-controls-dashboard/) · [Video](https://youtu.be/Gl09r2QoJ2w) |
 
